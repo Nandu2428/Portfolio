@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Weather Application",
+    "desc": " The API-based weather application project aims to deliver a useful tool for users to access real-time weather information conveniently.",
+    "image": "weather",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Nandu2428/WeatherApplication"
+    }
+  },
+  {
+    "name": "Currency Converter System",
+    "desc": "Developed a Currency converter system which converts from one currency to another including the Flag UI.",
+    "image": "CC",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Nandu2428/Currency-converter"
+    }
+  },
+  {
+    "name": "Rock paper Scissor Game",
+    "desc": "Designed a Rock Paper Scissor Game with an UI Effects of three Symbols. And also the live Game",
+    "image": "RCP",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Nandu2428/Rock-Paper-Scissor-Game"
+    }
+  }
+  
+]

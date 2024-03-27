@@ -1,0 +1,55 @@
+[
+   {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "C",
+        "icon": "http://sharptutorial.com/wp-content/uploads/2018/11/icons8-c-programming-1.png"
+    },
+    {
+        "name": "C++",
+        "icon": "./assets/images/icons8-c-48.png"
+       
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+     {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "./assets/images/javascript.png"
+    },
+    {
+        "name": "React.js",
+        "icon": "./assets/images/ReactJs.png"
+    },
+     {
+        "name": "Node.js",
+        "icon": "./assets/images/NodeJs.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }
+]
